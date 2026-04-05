@@ -4,23 +4,12 @@
 
 | No | Materi | Link Materi |
 |----|--------|-------------|
-| 1 | Belajar_variable | [Buka Materi](https://github.com/ByteBreakerGhost-69/New_study_javascipt/blob/main/Study_javascript/Belajar_variable.js) |
-| 2 | Variabel & Tipe Data | [Buka Materi](link) |
-| 3 | Operator JavaScript | [Buka Materi](link) |
-| 4 | Percabangan (if, else) | [Buka Materi](link) |
-| 5 | Looping (for, while) | [Buka Materi](link) |
-| 6 | Function | [Buka Materi](link) |
-| 7 | Array | [Buka Materi](link) |
-| 8 | Object | [Buka Materi](link) |
-| 9 | DOM Manipulation | [Buka Materi](link) |
-| 10 | Event Listener | [Buka Materi](link) |
-| 11 | Local Storage | [Buka Materi](link) |
-| 12 | Fetch API | [Buka Materi](link) |
-| 13 | Async / Await | [Buka Materi](link) |
-| 14 | Error Handling | [Buka Materi](link) |
-| 15 | ES6+ | [Buka Materi](link) |
-| 16 | Modular JavaScript | [Buka Materi](link) |
-| 17 | OOP JavaScript | [Buka Materi](link) |
-| 18 | JavaScript Testing | [Buka Materi](link) |
-| 19 | Performance Optimization | [Buka Materi](link) |
-| 20 | Advanced JavaScript | [Buka Materi](link) |
+| 1 | Belajar_variable.js | [Buka Materi](https://github.com/ByteBreakerGhost-69/New_study_javascipt/blob/main/Study_javascript/Belajar_variable.js) |
+| 2 | Belajar_struktur_kendali.js | [Buka Materi](link) |
+| 3 | Belajar_function.js | [Buka Materi](link) |
+| 4 | Array.js | [Buka Materi](link) |
+| 5 | Belajar_object.js | [Buka Materi](link) |
+| 6 | Belajar_looping.js | [Buka Materi](link) |
+| 7 |  | [Buka Materi](link) |
+| 8 | Belajar_scope.js | [Buka Materi](link) |
+| 9 | Belajar_pop-up_box.js | [Buka Materi](link) |

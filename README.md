@@ -10,6 +10,5 @@
 | 4 | Array.js | [Buka Materi](https://github.com/ByteBreakerGhost-69/New_study_javascipt/blob/main/Study_javascript%2FBelajar_array.js) |
 | 5 | Belajar_object.js | [Buka Materi](https://github.com/ByteBreakerGhost-69/New_study_javascipt/blob/main/Study_javascript%2FBelajar_object.js) |
 | 6 | Belajar_looping.js | [Buka Materi](https://github.com/ByteBreakerGhost-69/New_study_javascipt/blob/main/Study_javascript%2FBelajar_looping.js) |
-| 7 |  | [Buka Materi](link) |
-| 8 | Belajar_scope.js | [Buka Materi](https://github.com/ByteBreakerGhost-69/New_study_javascipt/blob/main/Study_javascript%2FBelajar_scope.js) |
-| 9 | Belajar_pop-up_box.js | [Buka Materi](https://github.com/ByteBreakerGhost-69/New_study_javascipt/blob/main/Study_javascript%2FBelajar_pop-up_box.js) |
+| 7 | Belajar_scope.js | [Buka Materi](https://github.com/ByteBreakerGhost-69/New_study_javascipt/blob/main/Study_javascript%2FBelajar_scope.js) |
+| 8 | Belajar_pop-up_box.js | [Buka Materi](https://github.com/ByteBreakerGhost-69/New_study_javascipt/blob/main/Study_javascript%2FBelajar_pop-up_box.js) |

@@ -4,7 +4,7 @@
 
 | No | Materi | Link Materi |
 |----|--------|-------------|
-| 1 | Pengenalan JavaScript | [Buka Materi](link) |
+| 1 | Belajar_variable | [Buka Materi](https://github.com/ByteBreakerGhost-69/New_study_javascipt/blob/main/Study_javascript/Belajar_variable.js) |
 | 2 | Variabel & Tipe Data | [Buka Materi](link) |
 | 3 | Operator JavaScript | [Buka Materi](link) |
 | 4 | Percabangan (if, else) | [Buka Materi](link) |

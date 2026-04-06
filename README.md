@@ -12,3 +12,4 @@
 | 6 | Belajar_looping.js | [Buka Materi](https://github.com/ByteBreakerGhost-69/New_study_javascipt/blob/main/Study_javascript%2FBelajar_looping.js) |
 | 7 | Belajar_scope.js | [Buka Materi](https://github.com/ByteBreakerGhost-69/New_study_javascipt/blob/main/Study_javascript%2FBelajar_scope.js) |
 | 8 | Belajar_pop-up_box.js | [Buka Materi](https://github.com/ByteBreakerGhost-69/New_study_javascipt/blob/main/Study_javascript%2FBelajar_pop-up_box.js) |
+| 9 | Belajar_DOM_selection.js | [Buka Materi](https://github.com/ByteBreakerGhost-69/New_study_javascipt/blob/main/Study_javascript%2FBelajar%20_%20DOM%20_%20selection.js)

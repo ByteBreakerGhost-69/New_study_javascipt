@@ -17,6 +17,9 @@ function Mahasiswa(nama, energi) {
 
 
 <! === solusi: Object.create() ===>
+
+//Untuk menghemat memori, kita membuat satu objek terpisah (methodMahasiswa) yang menampung semua fungsi.
+//Dengan Object.create(), objek mahasiswa yang baru akan "meminjam" atau memiliki koneksi ke objek metode tersebut tanpa harus menduplikasinya.
 const methodMahasiswa = {
     makan: function(porsi) {
         this.energi += porsi;
@@ -38,6 +41,10 @@ console.log(budi.makan(5)); // Tetap bisa jalan karena "terhubung"
 
 
 <! === prototypes ===>
+
+//JavaScript sebenarnya punya cara bawaan untuk melakukan hal di atas secara otomatis 
+//menggunakan properti .prototype. Saat kita memanggil fungsi dengan kata kunci new,
+//JavaScript melakukan "sulap" di balik layar dengan membuatkan this = Object.create(Mahasiswa.prototype).
 function Mahasiswa(nama, energi) {
     // Secara default, JS melakukan ini: this = Object.create(Mahasiswa.prototype);
     this.nama = nama;
@@ -62,6 +69,9 @@ let ani = new Mahasiswa("Ani", 20);
 
 <! === versi modern: class ( syntactic sugar )
 
+//Class diperkenalkan di ES6 untuk membuat penulisan di atas menjadi lebih bersih dan
+//mirip dengan bahasa pemrograman lain (seperti Java atau Python).
+//Namun, penting diingat bahwa di bawah tendanya, ia tetap menggunakan konsep **Prototype** yang kita bahas sebelumnya.
 class Mahasiswa {
     constructor(nama, energi) {
         this.nama = nama;

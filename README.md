@@ -16,3 +16,4 @@
 | 10 | Belajar_Node_manipulation.js | [Buka Materi](https://github.com/ByteBreakerGhost-69/New_study_javascipt/blob/main/Study_javascript%2FBelajar%20_%20Node%20_%20manipulation.js)
 | 11 | Belajar_DOM_traversel.js | [Buka Materi](https://github.com/ByteBreakerGhost-69/New_study_javascipt/blob/main/Study_javascript/Belajar%20_%20DOM%20_%20traversal.js)
 | 12 | Belajar_Event_bubbling.js | [Buka Materi](https://github.com/ByteBreakerGhost-69/New_study_javascipt/blob/main/Study_javascript/Belajar%20_%20Event%20_%20bubbling.js)
+| 13 | Belajar_Object_revisit & prototypes.js | [Buka Materi](https://github.com/ByteBreakerGhost-69/New_study_javascipt/blob/main/Study_javascript/Belajar%20_%20Object%20_%20revisit%20%26%20prototypes.js)

@@ -18,3 +18,6 @@
 | 12 | Belajar_Event_bubbling.js | [Buka Materi](https://github.com/ByteBreakerGhost-69/New_study_javascipt/blob/main/Study_javascript/Belajar%20_%20Event%20_%20bubbling.js)
 | 13 | Belajar_Object_revisit & prototypes.js | [Buka Materi](https://github.com/ByteBreakerGhost-69/New_study_javascipt/blob/main/Study_javascript/Belajar%20_%20Object%20_%20revisit%20%26%20prototypes.js)
 | 14 | Belajar_Execution_Context, Hoisting, & Scope.js | [Buka Materi](https://github.com/ByteBreakerGhost-69/New_study_javascipt/blob/main/Study_javascript/Belajar%20_%20Execution%20_%20Context%20_%20Hoisting%2C%20%26%20Scope.js)
+| 15 | Belajar_closures.js | [Buka Materi](https://github.com/ByteBreakerGhost-69/New_study_javascipt/blob/main/Study_javascript/Belajar%20_%20closures.js)
+| 16 | Belajar_arrow_function.js | [Buka Materi](https://github.com/ByteBreakerGhost-69/New_study_javascipt/blob/main/Study_javascript%2FBelajar%20_%20Arrow%20_%20function.js)
+| 17 | Belajar_higher_order_dunction.js | [Buka Materi](https://github.com/ByteBreakerGhost-69/New_study_javascipt/blob/main/Study_javascript%2FBelajar%20_%20higher%20_%20order%20_%20functions.js)

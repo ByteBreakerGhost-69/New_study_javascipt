@@ -1,5 +1,7 @@
 // bubling adalah salah satu materi unik dan membingungkan di DOM javascript 
-// bubling Dalam DOM (Document Object Model), saat sebuah elemen menerima suatu event (misalnya klik), event tersebut tidak hanya terjadi pada elemen itu saja. Event akan bergerak naik ke atas, yaitu ke elemen induknya, lalu ke induk berikutnya, dan seterusnya hingga mencapai tingkat paling atas seperti document atau window.
+// bubling Dalam DOM (Document Object Model), saat sebuah elemen menerima suatu event (misalnya klik),
+//event tersebut tidak hanya terjadi pada elemen itu saja. Event akan bergerak naik ke atas, yaitu ke elemen
+//induknya, lalu ke induk berikutnya, dan seterusnya hingga mencapai tingkat paling atas seperti document atau window.
 
 <!-- contoh -->
 html:

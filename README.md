@@ -22,4 +22,4 @@
 | 16 | Belajar_arrow_function.js | [Buka Materi](https://github.com/ByteBreakerGhost-69/New_study_javascipt/blob/main/Study_javascript%2FBelajar%20_%20Arrow%20_%20function.js)
 | 17 | Belajar_higher_order_dunction.js | [Buka Materi](https://github.com/ByteBreakerGhost-69/New_study_javascipt/blob/main/Study_javascript%2FBelajar%20_%20higher%20_%20order%20_%20functions.js)
 | 18 | Belajar_template_literals.js | [Buka Materi](https://github.com/ByteBreakerGhost-69/New_study_javascipt/blob/main/Study_javascript/Belajar%20_%20template%20_%20literals.js)
-| 19 | Belajar_destruction_assigment.js | [Buka Materi](
+| 19 | Belajar_destruction_assigment.js | [Buka Materi](https://github.com/ByteBreakerGhost-69/New_study_javascipt/blob/main/Study_javascript/Belajar%20_%20destruction%20_%20assignment.js)
